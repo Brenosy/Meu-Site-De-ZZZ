@@ -11,14 +11,15 @@ body{
     border-style: groove;
     
 }
+
+
 h1{
     text-align: center;
     color: white;
+
 }
 p{
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.Proxies{
-    margin-right: 0px;
-}
+  
